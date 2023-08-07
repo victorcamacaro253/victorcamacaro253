@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorcamacaro253 and i'm a student of system engineering ando i'm in the final stages of the carrer
 - 👀 I’m interested in being a Web developer (HTML,CSS,php,Javascript) ando also un becone a networker
 - 🌱 I’m currently learning PHP,CSS,Javascript,HTML 
-- 💞️ I’m looking to collaborate on projects where i can help to create new systems ando i can grow personally as a peofessional
+- 💞️ I’m looking to collaborate on projects where i can help to create new systems ando i can grow personally and  professional
 - 📫 How to reach me victorcamacaro253@gmail.com
 - Website: victorcamacaro.260mb.net
 
