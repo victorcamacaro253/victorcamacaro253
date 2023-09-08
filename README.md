@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @victorcamacaro253 and i'm a student of system engineering ando i'm in the final stages of the carrer
-- 👀 I’m interested in being a Web developer (HTML,CSS,php,Javascript) ando also un becone a networker
-- 🌱 I’m currently learning PHP,CSS,Javascript,HTML 
-- 💞️ I’m looking to collaborate on projects where i can help to create new systems ando i can grow personally and  professional
+
+🌟 System Engineering Student | 💻 Web Developer | 🌐 Full-Stack Enthusiast | 🚀 JavaScript | 🎨 HTML/CSS | 🧮 PHP/MySQL | 📚 Lifelong Learner
+
+Passionate about building elegant web solutions that combine the art of design with the power of technology. As a System Engineering student, I'm dedicated to mastering the intricacies of web development. With expertise in JavaScript, HTML, CSS, PHP, and MySQL, I thrive on creating seamless and dynamic web experiences. I'm always seeking new challenges to expand my skill set and contribute to innovative projects. Let's connect and make the web a better place, one line of code at a time! 👨‍💻🌐🚀
 - 📫 How to reach me victorcamacaro253@gmail.com
 - Website: victorcamacaro.260mb.net
 
