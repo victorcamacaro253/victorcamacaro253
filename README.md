@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 Apasionado por crear soluciones web elegantes que combinen el arte del diseño con el poder de la tecnología. Como estudiante de Ingeniería de Sistemas, me dedico a dominar las complejidades del desarrollo web. Con experiencia en JavaScript, HTML, CSS, PHP y MySQL, me encanta crear experiencias web dinámicas y fluidas. Siempre estoy buscando nuevos desafíos para ampliar mis habilidades y contribuir a proyectos innovadores. ¡Conectémonos y hagamos de la web un lugar mejor, una línea de código a la vez! 👨‍💻🌐🚀
 - 📫 Manera de contactarme victorcamacaro253@gmail.com
-- Pagina web: victorcamcaro.260mb.net
+- Pagina web: victorcamacaro.260mb.net
