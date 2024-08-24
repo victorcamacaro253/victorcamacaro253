@@ -1,5 +1,5 @@
 
-🌟 System Engineering Student | 💻 Web Developer | 🌐 Full-Stack Enthusiast | 🚀 JavaScript | 🎨 HTML/CSS | 🧮 PHP/MySQL | 📚 Lifelong Learner
+🌟 System Engineer | 💻 Web Developer | 🌐 Full-Stack Enthusiast | 🚀 JavaScript | 🎨 HTML/CSS | 🧮 PHP/MySQL | 📚 Lifelong Learner
 
 Passionate about building elegant web solutions that combine the art of design with the power of technology. As a System Engineering student, I'm dedicated to mastering the intricacies of web development. With expertise in JavaScript, HTML, CSS, PHP, and MySQL, I thrive on creating seamless and dynamic web experiences. I'm always seeking new challenges to expand my skill set and contribute to innovative projects. Let's connect and make the web a better place, one line of code at a time! 👨‍💻🌐🚀
 - 📫 How to reach me victorcamacaro253@gmail.com
