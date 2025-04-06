@@ -16,12 +16,16 @@ Apasionado por crear soluciones web elegantes que combinen el arte del diseño c
 - 📫 Manera de contactarme victorcamacaro253@gmail.com
 - Pagina web: https://victorcamacaro.pages.dev/
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=victorcamacaro253&show_icons=true&theme=radical&include_all_commits=true)
+![Metrics](https://github-readme-stats.vercel.app/api?username=victorcamacaro253&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcamacaro253&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=victorcamacaro253&theme=dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorcamacaro253&theme=github_dark)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victorcamacaro253&theme=react-dark&hide_border=true&area=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=victorcamacaro253&theme=dark)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/victorcamacaro253/count.svg)
