@@ -16,4 +16,6 @@ Apasionado por crear soluciones web elegantes que combinen el arte del diseño c
 - 📫 Manera de contactarme victorcamacaro253@gmail.com
 - Pagina web: https://victorcamacaro.pages.dev/
 
-![Metrics](https://metrics.lecoq.io/yourusername?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false)
+![Metrics](https://metrics.lecoq.io/victorcamacaro253?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcamacaro253&layout=compact&theme=radical)
