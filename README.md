@@ -21,3 +21,5 @@ Apasionado por crear soluciones web elegantes que combinen el arte del diseño c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcamacaro253&layout=compact&theme=radical)
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=victorcamacaro253&theme=react-dark&hide_border=true)
+
+![Visitor Count](https://profile-counter.glitch.me/victorcamacaro253/count.svg)
