@@ -6,7 +6,19 @@ As a Systems Engineer, I bring a solid understanding of cloud computing, cyberse
 
 💡 I thrive on solving complex problems, embracing continuous learning, and collaborating on impactful projects that push innovation forward.
 
-💻 Technologies & Skills:
+💻 **Technologies & Skills:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=amazon-dynamodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 
 Backend: Node.js, Express, TypeScript, PHP, REST/GraphQL APIs
 
@@ -49,6 +61,18 @@ Como Ingeniero de Sistemas, aporto un sólido conocimiento de la computación en
 
 💻 Tecnologías y habilidades:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=amazon-dynamodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 Backend: Node.js, Express, TypeScript, PHP, APIs REST/GraphQL
 
 Frontend: React.js, React Native, HTML/CSS, JavaScript/TypeScript
@@ -80,14 +104,7 @@ Me apasiona estar a la vanguardia de los avances tecnológicos y ampliar continu
 
 LinkedIn: https://www.linkedin.com/in/victor-camacaro-3634641a5
 
-  ### 🛠️ **Tech Stack**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=victorcamacaro253&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
