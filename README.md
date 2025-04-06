@@ -7,6 +7,7 @@ As a Systems Engineer, I bring a solid understanding of cloud computing, cyberse
 💡 I thrive on solving complex problems, embracing continuous learning, and collaborating on impactful projects that push innovation forward.
 
 💻 **Technologies & Skills:**  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -59,7 +60,7 @@ Como Ingeniero de Sistemas, aporto un sólido conocimiento de la computación en
 
 💡 Me apasiona resolver problemas complejos, fomentar el aprendizaje continuo y colaborar en proyectos de impacto que impulsan la innovación.
 
-💻 Tecnologías y habilidades:
+💻 **Tecnologías y habilidades:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
