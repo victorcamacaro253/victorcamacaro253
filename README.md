@@ -1,5 +1,6 @@
 
 👨‍💻 Full-Stack Software Developer | 🎓 Systems Engineer | ☁️ Cloud & Cybersecurity Enthusiast
+
 Passionate and results-driven Full-Stack Developer with a strong foundation in software engineering, web technologies, and system design. I specialize in building scalable web applications and APIs using Express.js, TypeScript, and React Native, with deep expertise in SQL and MongoDB databases.
 
 As a Systems Engineer, I bring a solid understanding of cloud computing, cybersecurity principles, and full system architecture — from backend logic to intuitive front-end interfaces. I’ve successfully designed and deployed complete systems, led API development, and integrated modern technologies to deliver robust digital solutions.
