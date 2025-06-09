@@ -56,6 +56,7 @@ LinkedIn: https://www.linkedin.com/in/victor-camacaro-3634641a5
 
 
 👨‍💻 Desarrollador de Software Full-Stack | 🎓 Ingeniero de Sistemas | ☁️ Entusiasta de la Nube y la Ciberseguridad
+
 Desarrollador Full-Stack apasionado y orientado a resultados, con una sólida base en ingeniería de software, tecnologías web y diseño de sistemas. Me especializo en la creación de aplicaciones web escalables y APIs utilizando Express.js, TypeScript y React Native, con amplia experiencia en bases de datos SQL y MongoDB.
 
 Como Ingeniero de Sistemas, aporto un sólido conocimiento de la computación en la nube, los principios de ciberseguridad y la arquitectura completa de sistemas, desde la lógica del backend hasta las interfaces intuitivas del frontend. He diseñado e implementado con éxito sistemas completos, liderado el desarrollo de APIs e integrado tecnologías modernas para ofrecer soluciones digitales robustas.
